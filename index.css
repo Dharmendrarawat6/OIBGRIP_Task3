@@ -1,0 +1,34 @@
+.head{display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+    font-style: initial;}
+ 
+    body{
+        background-image:url('download.png');
+        background-repeat: no-repeat;
+        background-position: center; /* Center the image */
+        background-size: 89px; /* Resize the background image to cover the entire container */
+        background-color: #8fd5ed;
+    }
+
+.btn-c{
+    margin: auto;
+    width: 61px;
+    height: 22px;
+    padding-top: 38px;
+}
+.section{
+    display: flex;
+    column-gap: 346px;
+    padding-left: 100px;
+}
+.result{
+    display: flex;
+    font-size: medium;
+    align-items: center;
+    justify-content: center;
+    padding-top: 47px;
+    column-gap: 65px;
+
+}
